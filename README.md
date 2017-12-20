@@ -1,4 +1,4 @@
-This repository contains antibody sequences published in our Immunity manucsript: "Precursor frequency and affinity determine B cell competitive fitness in germinal centers, with implications for germline-targeting HIV vaccine design"
+This repository contains antibody sequences published in our Immunity manucsript: "Precursor Frequency and Affinity Determine Competitive Fitness of B Cells in Germinal Centers, As Tested with Germline-Targeting HIV Vaccine Immunogens"
 
 The fasta files contain heavy and light chain amino acid sequences of transgenic (Tg) inferred-germline VRC01 (VRC01gHL) cells, dervied from spleenic germinal centers following immunization with eOD GT5-60mer. 
 
